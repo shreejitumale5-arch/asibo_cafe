@@ -1,0 +1,17 @@
+{
+  "name": "asobi-cafe-playstation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ASOBI Cafe | PlayStation - animated full-stack cafe website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
